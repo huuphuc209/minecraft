@@ -1,1 +1,1 @@
-# mcpe
+server
